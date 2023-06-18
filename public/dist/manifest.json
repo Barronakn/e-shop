@@ -1,0 +1,20 @@
+{
+  "public/images/home-2.webp": {
+    "file": "assets/home-2-2b5d92e9.webp",
+    "src": "public/images/home-2.webp"
+  },
+  "public/images/home-bg.webp": {
+    "file": "assets/home-bg-64916dbf.webp",
+    "src": "public/images/home-bg.webp"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-f7efcb2e.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-0d91dc04.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
